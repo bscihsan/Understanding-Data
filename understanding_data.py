@@ -3,6 +3,7 @@ import pandas as pd  # 0.24.2
 import matplotlib # 2.2.4
 import matplotlib.pyplot as plt
 
+#   github.com/bscihsan
 
 def sigmoid(x):
     return 1 / (1 + np.exp(-0.005 * x))
